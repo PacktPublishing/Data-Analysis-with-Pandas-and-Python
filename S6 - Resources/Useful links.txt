@@ -1,0 +1,17 @@
+Official pandas documentation
+
+pandas read_csv method - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
+
+DataFrame set_index method - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.set_index.html
+
+DataFrame reset_index method - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.reset_index.html
+
+DataFrame loc method- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html?highlight=loc#pandas.DataFrame.loc
+
+DataFrame iloc method - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html?highlight=iloc#pandas.DataFrame.iloc
+
+DataFrame rename method - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rename.html
+
+DataFrame pop method - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.pop.html
+
+DataFrame drop method - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html

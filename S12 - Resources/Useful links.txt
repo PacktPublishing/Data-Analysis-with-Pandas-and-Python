@@ -1,0 +1,5 @@
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.tolist.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.to_dict.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_csv.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.ExcelWriter.html

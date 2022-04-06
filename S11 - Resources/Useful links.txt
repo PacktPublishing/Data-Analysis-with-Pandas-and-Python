@@ -1,0 +1,5 @@
+https://pandas-datareader.readthedocs.io/en/latest/
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Timestamp.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.tseries.offsets.DateOffset.html
+https://pandas.pydata.org/pandas-docs/stable/reference/offset_frequency.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Timedelta.html

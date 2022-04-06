@@ -1,0 +1,3 @@
+https://matplotlib.org/
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.plot.html

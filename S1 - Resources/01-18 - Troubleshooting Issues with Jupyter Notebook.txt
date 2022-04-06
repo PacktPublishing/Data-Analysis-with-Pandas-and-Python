@@ -1,0 +1,7 @@
+Issue: Tab Completion / Intellisense does not work.
+
+If you are unable to use the Tab key to autocomplete text or to see available methods on an object, paste and execute the following code in a cell within the Notebook.
+
+%config Completer.use_jedi = False
+
+This code disables a Python library called Jedi that may accidentally cause Tab Completion to fail.

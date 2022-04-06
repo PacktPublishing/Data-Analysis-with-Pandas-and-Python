@@ -1,0 +1,4 @@
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.concat.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.append.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.concat.html
