@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V09369?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Data Analysis with Pandas and Python [Video]
 This is the code repository for [Data Analysis with Pandas and Python [Video]](https://www.packtpub.com/web-development/scalable-data-analysis-python-dask-video?utm_source=github&utm_medium=repository&utm_campaign=9781789808926), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
