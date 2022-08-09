@@ -1,2 +1,3 @@
 *sublime*
 *.ipynb_checkpoints
+.idea/*
