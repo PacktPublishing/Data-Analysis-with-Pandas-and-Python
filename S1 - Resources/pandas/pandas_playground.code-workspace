@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "/opt/anaconda3/envs/pandas_playground/bin/python"
+	}
+}
