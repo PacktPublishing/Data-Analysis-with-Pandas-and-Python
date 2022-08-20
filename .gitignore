@@ -1,3 +1,4 @@
 *sublime*
 *.ipynb_checkpoints
 .idea/*
+S1 - Resources/pandas/.vscode/settings.json
