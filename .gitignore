@@ -2,3 +2,5 @@
 *.ipynb_checkpoints
 .idea/*
 S1 - Resources/pandas/.vscode/settings.json
+S1 - Resources/pandas/pandas_playground.code-workspace
+S1 - Resources/pandas/pandas_playground.code-workspace

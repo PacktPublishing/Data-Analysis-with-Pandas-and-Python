@@ -5,6 +5,14 @@
 		}
 	],
 	"settings": {
-		"python.defaultInterpreterPath": "/opt/anaconda3/envs/pandas_playground/bin/python"
+		"python.defaultInterpreterPath": "/opt/anaconda3/envs/pandas_playground/bin/python",
+		"python.linting.flake8CategorySeverity.E": "Hint",
+		"python.linting.flake8CategorySeverity.F": "Hint",
+		"python.linting.flake8CategorySeverity.W": "Hint",
+		"python.linting.mypyCategorySeverity.error": "Hint",
+		"python.analysis.diagnosticMode": "openFilesOnly",
+		"python.analysis.diagnosticSeverityOverrides": {
+		
+		}
 	}
 }
