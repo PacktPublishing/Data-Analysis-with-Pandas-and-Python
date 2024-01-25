@@ -1,6 +1,0 @@
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.lower.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.upper.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.title.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.len.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.replace.html

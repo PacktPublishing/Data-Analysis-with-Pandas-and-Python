@@ -1,7 +1,0 @@
-Official pandas documentation
-
-isin method - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.isin.html
-
-DataFrame duplicated method - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.duplicated.html
-
-DataFrame drop-duplicates method - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop_duplicates.html
