@@ -1,0 +1,5 @@
+URL for Next Lesson's Dataset
+
+Welcome to the next section of the course! Open the incomplete Input and Output Jupyter Notebook and copy the url variable below to a cell. The next lesson will walk you through how to work with it.
+
+url = https://data.cityofnewyork.us/api/views/25th-nujf/rows.csv

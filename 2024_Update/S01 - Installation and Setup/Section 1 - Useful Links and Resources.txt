@@ -1,0 +1,14 @@
+Section 1 - Useful Links and Resources
+
+Official pandas website
+https://pandas.pydata.org/
+
+Download page for the Anaconda distribution
+https://anaconda.com/download
+
+How to uninstall Anaconda distribution
+https://docs.anaconda.com/free/anaconda/install/uninstall/
+
+Website for the Jupyter project
+https://jupyter.org/
+

@@ -1,0 +1,76 @@
+Section 3 - Useful Links and Resources
+
+Series tutorial from pandas website
+https://pandas.pydata.org/docs/user_guide/10min.html#object-creation
+
+Series documentation
+https://pandas.pydata.org/docs/reference/api/pandas.Series.html
+
+Documentation for sum method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.sum.html#pandas.Series.sum
+
+Documentation for product method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.product.html#pandas.Series.product
+
+Documentation for mean method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.mean.html#pandas.Series.mean
+
+Documentation with list of attributes
+https://pandas.pydata.org/docs/reference/api/pandas.Series.html
+
+Series documentation for constructor
+https://pandas.pydata.org/docs/reference/api/pandas.Series.html
+
+Documentation for pandas.read_csv function
+https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
+
+Documentation for head method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.head.html#pandas.Series.head
+
+Documentation for tail method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.tail.html#pandas.Series.tail
+
+Documentation for sort_values method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.sort_values.html#pandas.Series.sort_values
+
+Documentation for sort_index method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.sort_index.html#pandas.Series.sort_index
+
+pandas tutorial on selection by position in series
+https://pandas.pydata.org/docs/user_guide/indexing.html#selection-by-position
+
+Documentation for get method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.get.html#pandas.Series.get
+
+Documentation for copy method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.copy.html#pandas.Series.copy
+
+Documentation for mul method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.mul.html#pandas.Series.mul
+
+Documentation for sum method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.sum.html#pandas.Series.sum
+
+Documentation for sub method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.sub.html#pandas.Series.sub
+
+Documentation for median method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.median.html#pandas.Series.median
+
+Documentation for mode method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.mode.html#pandas.Series.mode
+
+Documentation for max method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.max.html#pandas.Series.max
+
+Documentation for min method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.min.html#pandas.Series.min
+
+Documentation for value_counts method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html#pandas.Series.value_counts
+
+Documentation for apply method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.apply.html#pandas.Series.apply
+
+Documentation for map method
+https://pandas.pydata.org/docs/reference/api/pandas.Series.map.html#pandas.Series.map
